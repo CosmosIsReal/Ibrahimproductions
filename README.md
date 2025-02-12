@@ -1,4 +1,4 @@
-- 👋 what's good yall, I’m @Ibrahimproductions
+- 👋 what's good yall, I’m @Cosmos
 - 👀 I like to do Friday night funkin mods ...
 <!---
 Ibrahimproductions/Ibrahimproductions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
